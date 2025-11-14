@@ -1,6 +1,6 @@
 # HIDE IN CLEAR TEXT
 
-A microproject to create a simple encrypting application
+A microproject to create a simple encrypting application. Developed using C language.
 
 ### Install GCC
 
